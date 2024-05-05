@@ -52,7 +52,7 @@ const Footer = () => {
         <div className="border bg-gray-20 ">
          
         </div>
-        <p className="text-center regular-14 text-gary-30">2024 Shoppee | All rights reserved.</p>
+        <p className="text-center regular-14 text-gary-30">2024 Shoppee | All rights reserved |Imesh.</p>
       </div>
     </footer>
   );
